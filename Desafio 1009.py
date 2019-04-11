@@ -1,0 +1,5 @@
+V = str(input())
+Sl = float(input())
+Tv = float(input())
+Calc = (Sl + (Tv * 15 / 100))
+print ("TOTAL = R$ %.2f" %Calc)
